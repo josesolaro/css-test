@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+yd3zon40tchztWRpT1boMcMC1DIsUR/I9nAo2HNcMhrYEm8k8Dqg9snoQL+kKw8wv/Gmne0lGkZRn+xr6h0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\source\\repos\\CloudStorageSec\\CSS project\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\awssdk.core\\3.5.1.57\\awssdk.core.3.5.1.57.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\awssdk.sqs\\3.5.1.6\\awssdk.sqs.3.5.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

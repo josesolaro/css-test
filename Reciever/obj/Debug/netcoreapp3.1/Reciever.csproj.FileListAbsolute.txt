@@ -1,0 +1,16 @@
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.exe
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.deps.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\Reciever.pdb
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfo.cs
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.csproj.CopyComplete
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.pdb
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Reciever\obj\Debug\netcoreapp3.1\Reciever.genruntimeconfig.cache

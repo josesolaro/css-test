@@ -1,0 +1,16 @@
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Jose\source\repos\CloudStorageSec\CSS project\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
